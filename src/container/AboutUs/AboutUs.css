@@ -1,0 +1,4 @@
+.app__aboutus{
+    /* allow us to move the overlay around */
+    position: relative;
+}
