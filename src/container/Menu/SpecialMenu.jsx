@@ -9,7 +9,7 @@ const SpecialMenu = () => (
   <div className="app__specialMenu flex__center section__padding" id="menu">
     <div className="app__specialMenu-title">
       <SubHeading title="Menu that fits your palatte"/>
-        <h1 className="headtext_cormorant">Today's Special</h1>
+      <h1 className="headtext__cormorant">Today&apos;s Special</h1>
     </div>
     <div className="app__specialMenu-menu">
       {/* 3 sections */}
@@ -17,7 +17,7 @@ const SpecialMenu = () => (
           <p className="app__specialMenu_menu_heading">Wine & Mezcal</p>
           <div className="app__specialMenu_menu_items">
             {data.wines.map((wine, index)=>(
-              <MenuItem key={wine.title + index} title={wine.price} price={wine.price} tags={wine.tags}/>
+              <MenuItem key={wine.title + index} title={wine.title} price={wine.price} tags={wine.tags}/>
             ))}
           </div>
       </div>
@@ -29,10 +29,10 @@ const SpecialMenu = () => (
 
     {/* Left section */}
       <div className="app__specialMenu-menu_cocktails flex__center">
-          <p className="app__specialMenu_menu_heading">Wine & Mezcal</p>
+          <p className="app__specialMenu-menu_heading">Wine & Mezcal</p>
           <div className="app__specialMenu_menu_items">
             {data.cocktails.map((cocktail, index)=>(
-              <MenuItem key={cocktail.title + index} title={cocktail.price}  price={cocktail.price} tags={cocktail.tags}/>
+              <MenuItem key={cocktail.title + index} title={cocktail.title}  price={cocktail.price} tags={cocktail.tags}/>
               ))}
           </div>
       </div>
