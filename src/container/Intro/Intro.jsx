@@ -31,6 +31,7 @@ const Intro = () => {
       muted
     />
     <div className="app__video-overlay flex__center">
+      {/* Play Circle icon */}
       <div 
       className="app__video-overlay_circle flex__center"
       onClick={handleVideo}
