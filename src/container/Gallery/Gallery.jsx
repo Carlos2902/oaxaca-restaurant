@@ -8,7 +8,6 @@ import './Gallery.css';
 const galleryImages= [images.gallery01, images.gallery02, images.gallery03, images.gallery04]
 
 const Gallery = () => {
-
   const scrollRef = React.useRef(null);
 
   const scroll = (direction) =>{
@@ -16,18 +15,18 @@ const Gallery = () => {
     const {current} = scrollRef;
 
     if (direction==='left') {
-      current.scrollleft -= 300;
+      current.scrollLeft -= 300;
     } else{
-      current.scrollleft += 300;
+      current.scrollLeft += 300;
     }
-  }
+  };
 
 return(
   <div className="app__gallery flex__center">
     <div className="app__gallery-content">
       <SubHeading title="Instagram"/>
       <h1 className="headtext__cormorant">Photo Gallery</h1>
-      <p className="p__opensans" style={{color: '#AAA', marginTop:'2rem'}}>
+      <p className="p__opensans" style={{color: '#AAAAAA', marginTop:'2rem'}}>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam molestiae hic fugiat eius cupiditate consequuntur non sit dolorem dolores perferendis ut id fuga ex eum, enim nesciunt incidunt sapiente tempora?
       </p>
       <button
@@ -48,9 +47,9 @@ return(
       </div>
 
       {/* buttons to move left & right */}
-      <div className="app__gallery-images_arrow">
+      <div className="app__gallery-images_arrows">
         <BsArrowLeftShort className="gallery__arrow-icon" onClick={()=>scroll('left')}/>
-≤        <BsArrowRightShort className="gallery__arrow-icon" onClick={()=>scroll('right')}/>
+        <BsArrowRightShort className="gallery__arrow-icon" onClick={()=>scroll('right')}/>
       </div>
 
     </div>
