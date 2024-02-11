@@ -2,19 +2,19 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
+    title: 'Divino Espiritu',
     price: '$56',
-    tags: 'AU | Bottle',
+    tags: 'MX | Bottle',
   },
   {
-    title: 'Catena Malbee',
+    title: 'Aguila Dorada',
     price: '$59',
-    tags: 'AU | Bottle',
+    tags: 'MX | Bottle',
   },
   {
-    title: 'La Vieillw Rose',
+    title: 'Fuego Sagrado',
     price: '$44',
-    tags: 'FR | 750 ml',
+    tags: 'MX | 750 ml',
   },
   {
     title: 'Rhino Pale Ale',
