@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/oaxaca-restaurant/static/css/main.0e6717c5.css",
+    "main.js": "/oaxaca-restaurant/static/js/main.f840ce71.js",
+    "static/media/meal.mp4": "/oaxaca-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/gallery03.png": "/oaxaca-restaurant/static/media/gallery03.65e08029fad161229c9c.png",
+    "static/media/bg.png": "/oaxaca-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/oaxaca-restaurant/static/media/findus.585c393ccd3671513743.png",
+    "static/media/menu.png": "/oaxaca-restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/welcome.png": "/oaxaca-restaurant/static/media/welcome.82995f6b2dfa28c7607d.png",
+    "static/media/laurels.png": "/oaxaca-restaurant/static/media/laurels.adeaac8391734e872868.png",
+    "static/media/chef.png": "/oaxaca-restaurant/static/media/chef.31fdcc8e6f804d3bc010.png",
+    "static/media/gallery04.png": "/oaxaca-restaurant/static/media/gallery04.e68dc97037e2a12a2d03.png",
+    "static/media/gallery02.png": "/oaxaca-restaurant/static/media/gallery02.543d9d05cba54cd89fc7.png",
+    "static/media/gallery01.png": "/oaxaca-restaurant/static/media/gallery01.990f14be0f978749bc6b.png",
+    "static/media/knife.png": "/oaxaca-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/oaxaca-restaurant/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/sign.png": "/oaxaca-restaurant/static/media/sign.3b9aa315462c98e912f8.png",
+    "static/media/G.png": "/oaxaca-restaurant/static/media/G.d57f920aaa7cc4ea34e2.png",
+    "static/media/logo.png": "/oaxaca-restaurant/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/oaxaca-restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/oaxaca-restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/oaxaca-restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/oaxaca-restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/oaxaca-restaurant/index.html",
+    "static/media/spoon.svg": "/oaxaca-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.0e6717c5.css.map": "/oaxaca-restaurant/static/css/main.0e6717c5.css.map",
+    "main.f840ce71.js.map": "/oaxaca-restaurant/static/js/main.f840ce71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6717c5.css",
+    "static/js/main.f840ce71.js"
+  ]
+}
