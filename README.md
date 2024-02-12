@@ -44,7 +44,7 @@ Open your web browser and navigate to http://localhost:3000 to view the applicat
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: https://carlos2902.github.io/oaxaca-restaurant/
 
 ### Contributing
 
