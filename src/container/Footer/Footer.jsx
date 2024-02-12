@@ -1,5 +1,6 @@
 import React from 'react';
-import {FiFacebook, FiTwitter, FInstagram, FiInstagram} from 'react-icons/fi';
+import {FaXTwitter} from 'react-icons/fa6';
+import {FiFacebook, FiInstagram} from 'react-icons/fi';
 
 import { FooterOverlay, Newsletter } from '../../components';
 import {images} from '../../constants';
@@ -24,7 +25,7 @@ const Footer = () => (
           <img src={images.spoon} alt="spoon" className="spoon__img" style={{marginTop: 15}}/>
           <div className="app__footer-links_icons">
             <FiFacebook/>
-            <FiTwitter/>
+            <FaXTwitter/>
             <FiInstagram/>
           </div>
         </div>
