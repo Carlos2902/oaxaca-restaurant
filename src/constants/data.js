@@ -17,12 +17,12 @@ const wines = [
     tags: 'MX | 750 ml',
   },
   {
-    title: 'Rhino Pale Ale',
+    title: 'Lion Phale',
     price: '$31',
     tags: 'CA | 750 ml',
   },
   {
-    title: 'Irish Guinness',
+    title: 'American Guinness',
     price: '$26',
     tags: 'IE | 750 ml',
   },
@@ -30,27 +30,27 @@ const wines = [
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Tropical Sunset',
     price: '$20',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Citrus Bliss",
     price: '$16',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
-    title: 'Daiquiri',
+    title: 'Midnight Martini',
     price: '$10',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
-    title: 'Old Fashioned',
+    title: 'Berry Breeze',
     price: '$31',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
   {
-    title: 'Negroni',
+    title: 'Smoky Sazerac',
     price: '$26',
     tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },

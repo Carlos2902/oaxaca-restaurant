@@ -41,7 +41,7 @@ const Footer = () => (
 
 
         <div className="footer__copyright">
-          <p className="p__opensans">2024. Guajaca. All Rights Reserved.</p>
+          <p className="p__opensans">2024. Oaxaca. All Rights Reserved.</p>
         </div>
   </div>
 );

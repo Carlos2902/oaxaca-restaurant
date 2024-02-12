@@ -15,7 +15,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
           <h1 className="headtext__cormorant">About us</h1>
           <img src={images.spoon} alt="about_spoon" className="spoon__img"/>
-          <p className="p__opensans">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veniam eveniet hic quia est molestiae, modi fuga eius nesciunt itaque vero impedit incidunt numquam magnam rem eligendi quidem alias soluta.</p>
+          <p className="p__opensans">Step into a world of culinary excellence at Deluxe Oaxacan. Our passion lies in bringing the authentic flavors of Oaxacan cuisine to your table. With a commitment to quality and tradition, we invite you to savor every moment as we embark on a journey through the vibrant tapestry of Oaxacan gastronomy.</p>
           <button type="button" className="custom__button">Know More</button>
       </div>  
       {/* Knife Img */}
@@ -26,7 +26,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
           <h1 className="headtext__cormorant">Our history</h1>
           <img src={images.spoon} alt="about_spoon" className="spoon__img"/>
-          <p className="p__opensans">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat veniam eveniet hic quia est molestiae, modi fuga eius nesciunt itaque vero impedit incidunt numquam magnam rem eligendi quidem alias soluta.</p>
+          <p className="p__opensans">Our history is woven with the threads of Oaxacan heritage, reflecting the resilience and richness of our culinary legacy. From ancient rituals to modern innovations, each chapter unfolds with the essence of tradition and innovation, ensuring a timeless experience for every palate.</p>
           <button type="button" className="custom__button">Know More</button>
       </div> 
     </div>

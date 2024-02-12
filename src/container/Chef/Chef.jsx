@@ -19,19 +19,15 @@ const Chef = () => (
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">Lorem ipsum dolor sit, 
-          amet consectetur adipisicing elit. 
-          Earum debitis quam quisquam repellendus id.</p>
+          <p className="p__opensans"></p>
         </div>
             <p className="p__opensans">
-            Lorem ipsum dolor sit, 
-          amet consectetur adipisicing elit. 
-          Earum debitis quam quisquam repellendus id.
+            I believe that food is a universal path of communication. By bringing culture and love to the table, the stomach becomes not just a receptacle for sustenance, but a vessel for shared experiences and cherished memories. At Deluxe Oaxacan, we celebrate the power of food to connect hearts and souls, transcending borders and fostering harmony in our global community.
             </p>
       </div>
 
           <div className="app__chef-sign">
-            <p>Kevin Luo</p>
+            <p>Carlos Lopez Rosado</p>
             <p className="p__opensans">Chef & Founder</p>
             <img src={images.sign} alt="sign_image" />
           </div>
