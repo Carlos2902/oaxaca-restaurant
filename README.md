@@ -3,6 +3,9 @@
 Overview:
 The Oaxaca Restaurant project is a modern web application inspired by a free open-source Figma design, Modern UI/UX: Gericht. It serves as a showcase of a restaurant webpage featuring Oaxacan cuisine, highlighting the rich culinary heritage of the region.
 
+### Deployment
+See the project live: https://carlos2902.github.io/oaxaca-restaurant/
+
 ## Design Reference:
 https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-Ui%2FUx%3A-Gericht?node-id=53%3A2
 
@@ -24,8 +27,6 @@ https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-Ui%2FUx%3A-Gericht?node
 * Webpack and Babel: Configured to bundle and transpile the application's source code, optimizing performance and compatibility.
 * Git and GitHub: Leveraged for version control and collaboration, enabling seamless project management and code sharing.
 
-
-
 ### Installation and Usage
 
 Clone the repository to your local machine.
@@ -42,11 +43,6 @@ or
 yarn start
 
 Open your web browser and navigate to http://localhost:3000 to view the application.
-
-
-### Deployment
-
-This section has moved here: https://carlos2902.github.io/oaxaca-restaurant/
 
 ### Contributing
 
